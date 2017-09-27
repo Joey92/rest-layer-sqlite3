@@ -11,7 +11,7 @@ import (
 
 	"github.com/rs/rest-layer/resource"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	"time"
 	"github.com/rs/rest-layer/schema"
 )
